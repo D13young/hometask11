@@ -1,0 +1,12 @@
+**/*.class
+classes/
+.DS_Store
+.vscode/
+lib/
+target/
+*.jar
+out/
+.idea/
+*.iml
+*.log
+
